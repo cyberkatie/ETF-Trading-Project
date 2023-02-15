@@ -5,7 +5,7 @@ ETF Trading
 
 An ETF is an Exchange-Traded Fund which is traded on stock exchanges. An ETF is a collection of stocks which if managed right, can lead to very beneficial outcomes.
 
-*Goal:* Which ETF would give us the best return?
+*Goal:* To find ETF would give us the best return
 
 To answer this, we will be looking at three questions:
 
